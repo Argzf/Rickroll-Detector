@@ -35,7 +35,7 @@ function isThisArickroll(rickLink) {
 	RickDetected = 0;
 	var rickYTid = youtubeParser(rickLink);
 	if (typeof(rickYTid) != 'string') RickDetected = -1;
-	readJSONfile("https://raw.githubusercontent.com/PGgamer2/Rickroll-Detector/main/rickrolls.json", function(callback) {
+	readJSONfile("https://raw.githubusercontent.com/Argzf/Rickroll-Detector/main/rickrolls.json", function(callback) {
 		var totalLinks;
 		if (typeof(callback) != 'string') {
 			RickDetected = -3;
