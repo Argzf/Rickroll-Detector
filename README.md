@@ -1,7 +1,7 @@
-# [Rickroll Detector](https://pggamer2.github.io/Rickroll-Detector/)
+# [Rickroll Detector](https://rickroll-detector.gzf.cool/)
 Detect any Rickroll in some seconds!
 
-*I had to Rickroll myself multiple times to make this*.
+*I had to Rickroll myself multiple times to make this so please smash the ⭐️ button*.
 
 ## Q&A
 
