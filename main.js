@@ -1,4 +1,4 @@
-const YTapiKey = "AIzaSyANKjEPiJumYf2kVaPtyFcdRH4ow8BiMUo";
+const YTapiKey = "QUl6YVN5QnRNVkdMcVgzemdvMWdLV3FTNE9naW1FLXM2TDhxbGtr";
 var RickDetected = 0;
 var lastYTid;
 
