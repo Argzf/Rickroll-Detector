@@ -1,6 +1,6 @@
-MIT License
+# [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 
-Copyright (c) 2023 Argzf
+[Copyright](https://en.wikipedia.org/wiki/Copyright) © 2023 [Argzf](https://github.com/Argzf)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
